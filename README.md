@@ -1,0 +1,1 @@
+<h1>rabbitmq example project</h1>
